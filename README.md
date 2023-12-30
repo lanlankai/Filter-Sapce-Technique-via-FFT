@@ -1,2 +1,3 @@
 # Filter-Sapce-Technique-via-FFT
-A Filter-Space-Technique to calculate the energy/enstrophy flux 
+This Python implementation of the Filter-Space Technique efficiently calculates energy/enstrophy flux on the Earth's surface. Leveraging the Fast Fourier Transform (FFT) for convolution with a Gaussian kernel significantly boosts performance. Stay tuned for the package upload after final cleanup!
+
